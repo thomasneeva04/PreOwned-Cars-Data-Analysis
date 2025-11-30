@@ -4,11 +4,11 @@
 
 Author: Neeva K Thomas
 
-Objective
+📌 Objective
 
 Analyze pre-owned cars dataset to identify key factors influencing vehicle resale pricing such as age, mileage, fuel type, engine size and ownership history.
 
-Data Cleaning
+🧼 Data Cleaning
 
 Dropped highly incomplete columns
 
@@ -20,7 +20,7 @@ Removed duplicates
 
 Standardized category formatting
 
-Feature Engineering
+🧠 Feature Engineering
 
 Created new columns:
 
@@ -32,7 +32,7 @@ engine_category
 
 owner_count
 
-Encoding & Scaling
+🔢 Encoding & Scaling
 
 One-hot encoding of categorical variables
 
@@ -50,7 +50,7 @@ Bar graphs
 
 Pivot tables
 
-Final Insights
+🏁 Final Insights
 
 Newer cars are consistently priced higher
 
