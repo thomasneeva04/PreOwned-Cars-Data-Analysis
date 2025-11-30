@@ -1,6 +1,6 @@
 # PreOwned-Cars-Data-Analysis
 
-[Data Wrangling and Analysis](Pre_Owned_Cars_Data_Wrangling_and_Analysis.ipynb)
+[Data Wrangling and Analysis](PreOwnedCars_Data_Wrangling_and_Analysis.ipynb)
 
 ## 🛻 Pre-Owned Cars Pricing Analysis – Data Wrangling & EDA
 
